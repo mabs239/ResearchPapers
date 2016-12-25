@@ -46,13 +46,18 @@
 # Engr. Waqas Ali
 [1].	R.H. KHAWAJA, M. A. MASOOD, MANSOOR ASGHAR, M. USMAN ASLAM, WAQAS ALI, SHAKEEL AHMAD, “An Innovative Approach For Modelling Of Power System Schemes Using Simulink Performance Analysis”, Proceedings of International Conference on Power Electronics and Power Engineering 2011 (ICPEPE 2009), Paris, France, 24th -26th June 2011.
 
-# Engr. Muhammad Usman Aslam
-[1].	R.H. Khawaja, M. Ali Masood, Mansoor Asghar, M. Usman Aslam, Waqas Ali, Shakeel Ahmad, “An Innovative Approach For Modeling of Power System Schemes Using Simulink Performance Analysis”, Proceedings of International Conference on Power Electronics and Power Engineering 2011 (ICPEPE 2009), Paris, France, 24th -26th June 2011.
-Engr. Shakeel Ahmad
+# Engr. Muhammad Usman Aslam [updated]
+R.H. Khawaja, M. A. Masood, MansoorAsghar, M. Usman Aslam, Waqas Ali, Shakeel Ahmad, “An Innovative Approach For Modeling of Power System Protection Schemes Using Simulink for Performance Analysis”, Proceedings of International Conference of World Academy of Science, Engineering & Technology 2011 (WASET 2011), Paris, France, 24th -26th June 2011. pp 1612-1616.
 
-[1].	R.H. KHAWAJA, M. ALI MASOOD, M. ASGHAR, USMAN, WAQAS, SHAKEEL, “An Innovative Approach For Modelling Of Power System Schemes Using Simulink Performance Analysis”, Proceedings of International Conference on Power Electronics and Power Engineering 2011 (ICPEPE 2009), Paris, France, 24th -26th June 2011.
+ 
+M. Usman Aslam, Muhammad Usman Cheema, Muhammad Samran, Muhammad Bilal Cheema, “Optimal Power Flow based upon Genetic Algorithm deploying Optimum Mutation and Elitism”, International Conference on Information Technology, Computer and Electrical Engineering (ICITACEE 2014), 8th – 9th  November, 2014, pp 334-338.
 
-[2].	R. H. KHAWAJA, M. REHAN ARIF, SHAKEEL AHMAD, M. NAVEED, JAMAL NASIR, “Optimization Of Distribution Transformer Using High Frequency Attained By Smps Technology”, 20th Australian Universities Power Engineering Conference (AUPEC 2010), Christchurch, New Zealand, 5th -8th December 2010. 
+ 
+M. Usman Aslam, Muhammad Usman Cheema, Muhammad Bilal Cheema, Muhammad Samran, “Design Analysis and Optimization of Ground Grid  Mesh of Extra High Voltage Substation Using an  Intelligent Software”, International Conference on Information Technology, Computer and Electrical Engineering (ICITACEE 2014), 8th – 9th  November, 2014, pp 339-345.
+
+  
+Muhammad Usman Cheema, M. Bilal Cheema, Adnan Bashir, M. Usman Aslam, “A comparison  of ground grid mesh design and optimization for 500kV substation using IEEE 80-2000 and finite element methods”,  Electrical and Electronics Engineering: An International Journal (ELELIJ) Vol 4, No 1, February 2015.
+
 
 # Dr. Tayyeb Mahmood
 
@@ -78,11 +83,11 @@ Engr. Shakeel Ahmad
 
 [6].	R.A.Jabbar, Muhammad Akmal, M. Ali Masood, Muhammad Junaid and Fiaz Akram,       “Voltage Waveform Distortion Measurement Caused  by current drawn by Modern       Induction Furnace”, IEEE, PES, 13th International Conference on Harmonics and       Quality of Power (ICHQP2008), On page(s): 1-7, ISBN: 978-1-4244-1771-1, Digital       Object Identifier:10.1109/ICHQP.2008.4668764, Published: 2008-11-07 University of        Wollongong,Australia.
 
-International Book Chapter Writing
+## International Book Chapter Writing
 
 [1].	Innovation in Power, Control and Optimization (PCO) Book Chapter, Under Chapter title, “Analyses and Monitoring of Power Grid”, Authors: Rana A. Jabbar, Engr. Muhammad Junaid, Adnan Bashir, M. Asghar and M.A. Masood, IGI Global http://www.igi-global.com/Books.aspx, 2010.
 
-Engr. Azar Taufique
+# Engr. Azar Taufique
 
 [1].	Azar Taufique , Kumaran Vijayasankar, Wooil Kim, John H.L. Hansen , Marco Tacca and Andrea Fumagalli , “ Phone Impact Based Speech Transmission Technique for Reliable Speech Recognition in Poor Wireless Network Conditions ”, InterSpeech 2011
 
@@ -91,14 +96,3 @@ Engr. Azar Taufique
 
 
 
-# Muhammad Usman Aslam
-R.H. Khawaja, M. A. Masood, MansoorAsghar, M. Usman Aslam, Waqas Ali, Shakeel Ahmad, “An Innovative Approach For Modeling of Power System Protection Schemes Using Simulink for Performance Analysis”, Proceedings of International Conference of World Academy of Science, Engineering & Technology 2011 (WASET 2011), Paris, France, 24th -26th June 2011. pp 1612-1616.
-
- 
-M. Usman Aslam, Muhammad Usman Cheema, Muhammad Samran, Muhammad Bilal Cheema, “Optimal Power Flow based upon Genetic Algorithm deploying Optimum Mutation and Elitism”, International Conference on Information Technology, Computer and Electrical Engineering (ICITACEE 2014), 8th – 9th  November, 2014, pp 334-338.
-
- 
-M. Usman Aslam, Muhammad Usman Cheema, Muhammad Bilal Cheema, Muhammad Samran, “Design Analysis and Optimization of Ground Grid  Mesh of Extra High Voltage Substation Using an  Intelligent Software”, International Conference on Information Technology, Computer and Electrical Engineering (ICITACEE 2014), 8th – 9th  November, 2014, pp 339-345.
-
-  
-Muhammad Usman Cheema, M. Bilal Cheema, Adnan Bashir, M. Usman Aslam, “A comparison  of ground grid mesh design and optimization for 500kV substation using IEEE 80-2000 and finite element methods”,  Electrical and Electronics Engineering: An International Journal (ELELIJ) Vol 4, No 1, February 2015.
