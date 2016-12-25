@@ -24,22 +24,32 @@
 
 
 # Engr. M. Rehan Arif
- 
-[1].	REHAN ARIF, FARHAN MAHMOOD, MURTZA HASHMI, SEPPO HANNINEN, “Application of Passive Filters to Mitigate Power Quality Problems Caused by Induction Furnaces”, International Conference on Condition Monitoring and Diagnosis (CMD 2012), Bali, Indonesia, 23rd -27th September 2012. 
 
-[2].	R. H. KHAWAJA, M. REHAN ARIF, SHAKEEL AHMAD, M. NAVEED, JAMAL NASIR, “Optimization Of Distribution Transformer Using High Frequency Attained By Smps Technology”, 20th Australian Universities Power Engineering Conference (AUPEC 2010), Christchurch, New Zealand, 5th -8th December 2010. 
+RESEARCH PUBLICATIONS
 
-[3].	R. H. KHAWAJA, T. R. BLACKBURN and R. ARIF, “Ageing & Partial Discharge Patterns in Oil-Impregnated Paper and Pressboard Insulation at High Temperature”, Proceedings of International Conference on Power Electronics and Power Engineering 2009 (ICPEPE 2009), Paris, France, 24th – 26th June 2009.
+[1] Adnan Bashir, Waqas Javed, M. Rehan Arif, Haroon Farooq, “Design and Harmonic Analysis of a High Frequency Power Electronics Circuit to Reduce the Transformer Size”, International Conference on Informatics, Environment, Energy and Applications (IEEA 2015), Pattaya, Thailand, March 2015.
 
-[4].	Qureshi, S.A.  Akmal, M.  Arif, R., “Power quality based comparison of Compact Fluorescent Lamp with fluorescent light”, IEEE, 3rd International Conference on Electrical Engineering (ICEE’09), ISBN No. 978-1-4244-4360-4, April 2009, UET, Lahore, Pakistan.
-	
-[5].	R.A.Jabbar, M-Aldabbagh, Azah Muhammad, R.H, Khawaja, M. Akmal, Rehan Arif, “Impact of Compact Fluorescent Lamp on Power Quality”, IEEE, AUPEC’08, December 17, 2008, UNSW, Australia.
+[2] Muhammad Rehan Arif, Farhan Mahmood, Murtaza Hashmi, Seppo Hänninen, “Application of Passive Filters to Mitigate Power Quality Problems Caused by Induction Furnaces”, IEEE International Conference on Condition Monitoring and Diagnosis (CMD 2012), Bali, Indonesia, September 2012.
+
+[3] R. H. Khawaja, M. Rehan Arif, Shakeel Ahmad, M. Naveed, Jamal Nasir, “OPTIMIZATION OF DISTRIBUTION TRANSFORMER USING HIGH FREQUENCY ATTAINED BY SMPS TECHNOLOGY”, 20th Australian Universities Power Engineering Conference (AUPEC 2010), ISBN: 978-1-4244-8379-2, Christchurch, New Zealand, December 2010.
+
+[4] R. H. KHAWAJA, T. R. BLACKBURN and R. Arif, “Ageing & Partial Discharge Patterns in Oil-Impregnated Paper and Pressboard Insulation at High Temperature”, Proceedings of International Conference on Power Electronics and Power Engineering (ICPEPE 2009), Paris, France, 24th – 26th June 2009. (Also accessible on http://www.waset.org/journals/waset/v30/v30-230.pdf)
+
+[5] Qureshi, S.A.  Akmal, M.  Arif, R., “Power quality based comparison of Compact Fluorescent Lamp with fluorescent light”, IEEE, 3rd International Conference on Electrical Engineering (ICEE’09), ISBN: 978-1-4244-4360-4, UET, Lahore, Pakistan, April 2009.
+[6] R.A.Jabbar, M-Aldabbagh, Azah Muhammad, R.H, Khawaja, M. Akmal, Rehan Arif,  “Impact of Compact Fluorescent Lamp on Power Quality”, IEEE, AUPEC’08, ISBN: 978-0-7334-2715-2, UNSW, Australia, December, 2008.
+
+
+
+
+
 
 # Engr. Adnan Bashir
 
-[1].	Adnan Bashir, Rana A. Jabbar, Muhammad Junaid and M. Mansoor Asgher, “ETAP Software based Transient, Ground Grid and Short Circuit Analyses of 132 kV Grid”, Third Global Conference on Power Control and Optimization (PCO 2010), ISBN: 978-983-44483-1-8, 2 - 4 February 2010, Gold Coast, Australia. 
+[1] Ali Raza, Manzoor Ellahi, Adnan Bashir, and Muhammad Iqbal, “Online monitoring of Electricity Data through wireless transmission using Radio Frequency,” International Journal of Innovation and Applied Studies, vol. 3, no. 1, pp. 59–67, May 2013.
 
-[2].	W.A.Qureshi, R.A.J. Khan, M.Akmal, Mateen Ahmed and A. Bashir, “An Efficient Approach for Target Tracking and Error Minimization by Kalman Filtering Technique”, IEEE, International Conference on Electrical Engineering, 2007. ICEE '07, ISBN: 1-4244-0893-8, pp. 1-6.
+[2] Adnan Bashir, Rana A. Jabbar, Muhammad Junaid and M. Mansoor Asgher, “ETAP Software based Transient, Ground Grid and Short Circuit Analyses of 132 kV Grid”, Third Global Conference on Power Control and Optimization (PCO 2010), ISBN: 978-983-44483-1-8, 2 - 4 February 2010, Gold Coast, Australia. 
+
+[3] W.A.Qureshi, R.A.J. Khan, M.Akmal, Mateen Ahmed and A. Bashir, “An Efficient Approach for Target Tracking and Error Minimization by Kalman Filtering Technique”, IEEE, International Conference on Electrical Engineering, 2007. ICEE '07, ISBN: 1-4244-0893-8, pp. 1-6.
 
 ## International Book Chapter Writing
 
