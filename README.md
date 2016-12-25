@@ -6,16 +6,22 @@
 
 [1]	Atta-ur-Rehman, Salman Afghani, Muhammad Akmal, Raheel Yousaf, “Microcontroller and Sensors Based Gesture Vocalizer”, The 7th WSEAS conference on SIGNAL, ROBOTICS and AUTOMATION, The University of Cambridge, UK, February 20-22, 2008.
 
-# Dr. Haroon Farooq
+# Dr. Haroon Farooq [updated]
+
 ## Journal – publications:
-[1].   HAROON FAROOQ, CHENGKE ZHOU, MALCOLM ALLAN, MOHAMED EMAD FARRAG, R.A. KHAN, M. JUNAID ,“Investigating The Power Quality Of An Electrical Distribution System Stressed By Non-Linear Domestic Appliances”, Renewable Energy and Power Quality Journal, No. 9, May 2011, ISSN: 2172-038X (Upgraded from ICREPQ,11 April 2011)
 
-[2].	H. Farooq, C. Zhou, M.E. Farrag, “Analyzing the Harmonic Distortion in a Distribution              System Caused by the Non-Linear Residential Loads”, International Journal of Smart Grid and Clean Energy, ISSN: 2315-4462 (Presented at ICSGCE 2012, 26 – 28 October 2012, Hong Kong, China)
+[1].   HAROON FAROOQ, CHENGKE ZHOU, MALCOLM ALLAN, MOHAMED EMAD FARRAG, R.A. KHAN, M. JUNAID ,“Investigating The Power Quality Of An Electrical Distribution System Stressed By Non-Linear Domestic Appliances”, Renewable Energy and Power Quality Journal, No. 9, ISSN: 2172-038X, May 2011.
 
+[2].	H. Farooq, C. Zhou, M.E. Farrag, “Analyzing the Harmonic Distortion in a Distribution              System Caused by the Non-Linear Residential Loads”, International Journal of Smart Grid and Clean Energy, Vol. 2 (01) ISSN: 2315-4462, pp. 46-51, January 2013.
 ## Conference – publications:
-[1].  HAROON FAROOQ, KEJUN QIAN, MOHAMED EMAD FARRAG, MALCOLM ALLAN & CHENGKE ZHOU, “Power Quality Analysis Of Distribution Systems Incorporating High Penetration Level Of EV  Battery Chargers”, in Proc. CIRED’11, June 2011.
-[2]. 	HAROON FAROOQ, MOHAMED EMAD FARRAG, “Mitigation Of Harmonics Stress In The Distribution Network Of Arid Areas Using Power Conditioners”, in Proc. DEEM’11, July 2011.
-[3].   HAROON FAROOQ, “Investigating The Impacts Of Distributed Generation On An Electrical Distribution System Already Stressed By Non-Linear Domestic Loads”, in Proc. APPEEC 2012. (Submitted for Review)
+ [1].	ADNAN BASHIR, WAQAS JAVED, REHAN ARIF, HAROON FAROOQ, “Design and Harmonic Analysis of a High Frequency Power Electronics Circuit to Reduce the Transformer Size”, in Proc. NMEC-15, November 2015.
+
+[2].  HAROON FAROOQ, KEJUN QIAN, MOHAMED EMAD FARRAG, MALCOLM ALLAN & CHENGKE ZHOU, “Power Quality Analysis Of Distribution Systems Incorporating High Penetration Level Of EV  Battery Chargers”, in Proc. CIRED’11, June 2011.
+
+[3]. 	HAROON FAROOQ, MOHAMED EMAD FARRAG, “Mitigation Of Harmonics Stress In The Distribution Network Of Arid Areas Using Power Conditioners”, in Proc. DEEM’11, July 2011.
+
+[4].   HAROON FAROOQ, “Investigating The Impacts Of Distributed Generation On An Electrical Distribution System Already Stressed By Non-Linear Domestic Loads”, in Proc. APPEEC 2012, March 2012. 
+
 
 # Engr. M. Rehan Arif
  
@@ -57,6 +63,17 @@ M. Usman Aslam, Muhammad Usman Cheema, Muhammad Bilal Cheema, Muhammad Samran, �
 
   
 Muhammad Usman Cheema, M. Bilal Cheema, Adnan Bashir, M. Usman Aslam, “A comparison  of ground grid mesh design and optimization for 500kV substation using IEEE 80-2000 and finite element methods”,  Electrical and Electronics Engineering: An International Journal (ELELIJ) Vol 4, No 1, February 2015.
+
+# Engr. Muhammad Usama [updated]
+[1].	M. Usama, S. Habib and H. Hussain, "Power generation from canal system using adjustable Twisted Blade Turbine," Emerging Technologies (ICET), 2015 International Conference on, Peshawar, 2015, pp. 1-4.
+doi: 10.1109/ICET.2015.7389181
+[2]. A.Ahmad,M.A Saeed and M.Usama, “Qualitative Analysis Of Low Rating Uninterruptible Power Supplies,” Sci.Int.(Lahore),27(5),4047-4052,2015.
+
+# Engr. Shakeel Ahmad
+
+[1].	R.H. KHAWAJA, M. ALI MASOOD, M. ASGHAR, USMAN, WAQAS, SHAKEEL, “An Innovative Approach For Modelling Of Power System Schemes Using Simulink Performance Analysis”, Proceedings of International Conference on Power Electronics and Power Engineering 2011 (ICPEPE 2009), Paris, France, 24th -26th June 2011.
+
+[2].	R. H. KHAWAJA, M. REHAN ARIF, SHAKEEL AHMAD, M. NAVEED, JAMAL NASIR, “Optimization Of Distribution Transformer Using High Frequency Attained By Smps Technology”, 20th Australian Universities Power Engineering Conference (AUPEC 2010), Christchurch, New Zealand, 5th -8th December 2010. 
 
 
 # Dr. Tayyeb Mahmood
