@@ -27,16 +27,18 @@
 
 RESEARCH PUBLICATIONS
 
-[1] Adnan Bashir, Waqas Javed, M. Rehan Arif, Haroon Farooq, “Design and Harmonic Analysis of a High Frequency Power Electronics Circuit to Reduce the Transformer Size”, International Conference on Informatics, Environment, Energy and Applications (IEEA 2015), Pattaya, Thailand, March 2015.
 
-[2] Muhammad Rehan Arif, Farhan Mahmood, Murtaza Hashmi, Seppo Hänninen, “Application of Passive Filters to Mitigate Power Quality Problems Caused by Induction Furnaces”, IEEE International Conference on Condition Monitoring and Diagnosis (CMD 2012), Bali, Indonesia, September 2012.
+[1].	Adnan Bashir, Waqas Javed, M. Rehan Arif, Haroon Farooq, “Design and Harmonic Analysis of a High Frequency Power Electronics Circuit to Reduce the Transformer Size”, International Conference on Informatics, Environment, Energy and Applications (IEEA 2015), Pattaya, Thailand, March 2015.
 
-[3] R. H. Khawaja, M. Rehan Arif, Shakeel Ahmad, M. Naveed, Jamal Nasir, “OPTIMIZATION OF DISTRIBUTION TRANSFORMER USING HIGH FREQUENCY ATTAINED BY SMPS TECHNOLOGY”, 20th Australian Universities Power Engineering Conference (AUPEC 2010), ISBN: 978-1-4244-8379-2, Christchurch, New Zealand, December 2010.
+[2].	Muhammad Rehan Arif, Farhan Mahmood, Murtaza Hashmi, Seppo Hänninen, “Application of Passive Filters to Mitigate Power Quality Problems Caused by Induction Furnaces”, IEEE International Conference on Condition Monitoring and Diagnosis (CMD 2012), Bali, Indonesia, September 2012.
 
-[4] R. H. KHAWAJA, T. R. BLACKBURN and R. Arif, “Ageing & Partial Discharge Patterns in Oil-Impregnated Paper and Pressboard Insulation at High Temperature”, Proceedings of International Conference on Power Electronics and Power Engineering (ICPEPE 2009), Paris, France, 24th – 26th June 2009. (Also accessible on http://www.waset.org/journals/waset/v30/v30-230.pdf)
+[3].	R. H. Khawaja, M. Rehan Arif, Shakeel Ahmad, M. Naveed, Jamal Nasir, “OPTIMIZATION OF DISTRIBUTION TRANSFORMER USING HIGH FREQUENCY ATTAINED BY SMPS TECHNOLOGY”, 20th Australian Universities Power Engineering Conference (AUPEC 2010), ISBN: 978-1-4244-8379-2, Christchurch, New Zealand, December 2010.
 
-[5] Qureshi, S.A.  Akmal, M.  Arif, R., “Power quality based comparison of Compact Fluorescent Lamp with fluorescent light”, IEEE, 3rd International Conference on Electrical Engineering (ICEE’09), ISBN: 978-1-4244-4360-4, UET, Lahore, Pakistan, April 2009.
-[6] R.A.Jabbar, M-Aldabbagh, Azah Muhammad, R.H, Khawaja, M. Akmal, Rehan Arif,  “Impact of Compact Fluorescent Lamp on Power Quality”, IEEE, AUPEC’08, ISBN: 978-0-7334-2715-2, UNSW, Australia, December, 2008.
+[4].	R. H. KHAWAJA, T. R. BLACKBURN and R. Arif, “Ageing & Partial Discharge Patterns in Oil-Impregnated Paper and Pressboard Insulation at High Temperature”, Proceedings of International Conference on Power Electronics and Power Engineering (ICPEPE 2009), Paris, France, 24th – 26th June 2009. (Also accessible on http://www.waset.org/journals/waset/v30/v30-230.pdf)
+
+[5].	Qureshi, S.A.  Akmal, M.  Arif, R., “Power quality based comparison of Compact Fluorescent Lamp with fluorescent light”, IEEE, 3rd International Conference on Electrical Engineering (ICEE’09), ISBN: 978-1-4244-4360-4, UET, Lahore, Pakistan, April 2009.
+
+[6].	R.A.Jabbar, M-Aldabbagh, Azah Muhammad, R.H, Khawaja, M. Akmal, Rehan Arif,  “Impact of Compact Fluorescent Lamp on Power Quality”, IEEE, AUPEC’08, ISBN: 978-0-7334-2715-2, UNSW, Australia, December, 2008.
 
 
 
