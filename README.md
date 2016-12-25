@@ -121,5 +121,21 @@ doi: 10.1109/ICET.2015.7389181
 [2].	Kumaran Vijayasankar, Azar Taufique, Lakshmi N.Kannan , Marco Tacca and Andrea Fumagalli, ”An Analytical Model with Improved Accuracy of IEEE 802.11 Protocol Under Unsaturated Conditions”, IEEE MASCOTS’10
 
 
+# Abu Bakar Siddique [updated]
+## Journal Papers
 
+[1]. M. A. Anwar; A. B. Siddique; M. Tahir, "Relative Self-Calibration of Wireless Acoustic Sensor Networks Using Dual Positioning Mobile Beacon," in IEEE Systems Journal , vol.PP, no.99, pp.1-9, 2016. 
 
+[2]. M.U. Farooq, A. Shakoor, A.B. Siddique,"ARM based Bidirectional Visitor Counter and Automatic Room Light Controller using PIR sensors", Advances in Science, Technology and Engineering Systems Journal, vol. 1, no. 5, pp. 10-15, 2016.
+
+[3].      Siddique, A.B.; Tahir, M., “Joint Rate-Brightness Control using Variable Rate MPPM for LED Based Visible Light Communication Systems,” Wireless Communications, IEEE Transactions on , vol.12, no.9, pp.4604,4611, September 2013.
+
+[4].      Tahir, M.; Siddique, A.B., “Optimal Brightness-Rate Control using VR-MPPM and its Spectral Analysis for VLC System,” Communications Letters, IEEE , vol.16, no.7, pp.1125,1128, July 2012.
+
+## Conference Papers
+
+[1].      Siddique, Abu Bakar, and Muhammad Tahir. “Bandwidth efficient multi-level MPPM encoding decoding algorithms for joint brightness-rate control in VLC systems.” Global Communications Conference (GLOBECOM), 2014 IEEE. IEEE, 2014.
+
+[2].      Siddique, Abu Bakar, and Muhammad Tahir. “Joint error-brightness control coding for LED based VLC link.” Wireless Communications and Networking Conference (WCNC), 2014 IEEE. IEEE, 2014.
+
+[3].      Siddique, A.B.; Tahir, M., “Joint brightness control and data transmission for visible light communication systems based on white LEDs,” Consumer Communications and Networking Conference (CCNC), 2011 IEEE , vol., no., pp.1026,1030, 9-12 Jan. 2011.
