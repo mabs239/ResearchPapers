@@ -1,15 +1,18 @@
 
+
 # ResearchPapers
 
 # Engr.Atta-ur-Rehman
 
 [1]	Atta-ur-Rehman, Salman Afghani, Muhammad Akmal, Raheel Yousaf, “Microcontroller and Sensors Based Gesture Vocalizer”, The 7th WSEAS conference on SIGNAL, ROBOTICS and AUTOMATION, The University of Cambridge, UK, February 20-22, 2008.
 
- # Dr. Haroon Farooq
+# Dr. Haroon Farooq
 ## Journal – publications:
 [1].   HAROON FAROOQ, CHENGKE ZHOU, MALCOLM ALLAN, MOHAMED EMAD FARRAG, R.A. KHAN, M. JUNAID ,“Investigating The Power Quality Of An Electrical Distribution System Stressed By Non-Linear Domestic Appliances”, Renewable Energy and Power Quality Journal, No. 9, May 2011, ISSN: 2172-038X (Upgraded from ICREPQ,11 April 2011)
+
 [2].	H. Farooq, C. Zhou, M.E. Farrag, “Analyzing the Harmonic Distortion in a Distribution              System Caused by the Non-Linear Residential Loads”, International Journal of Smart Grid and Clean Energy, ISSN: 2315-4462 (Presented at ICSGCE 2012, 26 – 28 October 2012, Hong Kong, China)
-Conference – publications:
+
+## Conference – publications:
 [1].  HAROON FAROOQ, KEJUN QIAN, MOHAMED EMAD FARRAG, MALCOLM ALLAN & CHENGKE ZHOU, “Power Quality Analysis Of Distribution Systems Incorporating High Penetration Level Of EV  Battery Chargers”, in Proc. CIRED’11, June 2011.
 [2]. 	HAROON FAROOQ, MOHAMED EMAD FARRAG, “Mitigation Of Harmonics Stress In The Distribution Network Of Arid Areas Using Power Conditioners”, in Proc. DEEM’11, July 2011.
 [3].   HAROON FAROOQ, “Investigating The Impacts Of Distributed Generation On An Electrical Distribution System Already Stressed By Non-Linear Domestic Loads”, in Proc. APPEEC 2012. (Submitted for Review)
@@ -32,7 +35,7 @@ Conference – publications:
 
 [2].	W.A.Qureshi, R.A.J. Khan, M.Akmal, Mateen Ahmed and A. Bashir, “An Efficient Approach for Target Tracking and Error Minimization by Kalman Filtering Technique”, IEEE, International Conference on Electrical Engineering, 2007. ICEE '07, ISBN: 1-4244-0893-8, pp. 1-6.
 
-International Book Chapter Writing
+## International Book Chapter Writing
 
 [1].	Innovation in Power, Control and Optimization (PCO) Book Chapter, Under Chapter title, “Analyses and Monitoring of Power Grid”, Authors: Rana A. Jabbar, Engr. Muhammad Junaid, Adnan Bashir, M. Asghar and M.A. Masood, IGI Global http://www.igi-global.com/Books.aspx, 2010.
 
@@ -41,11 +44,9 @@ International Book Chapter Writing
 [1].	R. H. KHAWAJA, M. REHAN ARIF, SHAKEEL AHMAD, M. NAVEED, JAMAL NASIR, “Optimization Of Distribution Transformer Using High Frequency Attained By Smps Technology”, 20th Australian Universities Power Engineering Conference (AUPEC 2010), Christchurch, New Zealand, 5th -8th December 2010. 
 
 # Engr. Waqas Ali
-¬¬¬¬¬¬¬
 [1].	R.H. KHAWAJA, M. A. MASOOD, MANSOOR ASGHAR, M. USMAN ASLAM, WAQAS ALI, SHAKEEL AHMAD, “An Innovative Approach For Modelling Of Power System Schemes Using Simulink Performance Analysis”, Proceedings of International Conference on Power Electronics and Power Engineering 2011 (ICPEPE 2009), Paris, France, 24th -26th June 2011.
 
 # Engr. Muhammad Usman Aslam
-
 [1].	R.H. Khawaja, M. Ali Masood, Mansoor Asghar, M. Usman Aslam, Waqas Ali, Shakeel Ahmad, “An Innovative Approach For Modeling of Power System Schemes Using Simulink Performance Analysis”, Proceedings of International Conference on Power Electronics and Power Engineering 2011 (ICPEPE 2009), Paris, France, 24th -26th June 2011.
 Engr. Shakeel Ahmad
 
