@@ -130,9 +130,11 @@ doi: 10.1109/ICET.2015.7389181
 
 [2]. M.U. Farooq, A. Shakoor, A.B. Siddique,"ARM based Bidirectional Visitor Counter and Automatic Room Light Controller using PIR sensors", Advances in Science, Technology and Engineering Systems Journal, vol. 1, no. 5, pp. 10-15, 2016.
 
-[3].      Siddique, A.B.; Tahir, M., “Joint Rate-Brightness Control using Variable Rate MPPM for LED Based Visible Light Communication Systems,” Wireless Communications, IEEE Transactions on , vol.12, no.9, pp.4604,4611, September 2013.
+[3]. Siddique, Abu Bakar, Saadia Farid, and Muhammad Tahir. "Proof of bijection for combinatorial number system." arXiv preprint arXiv:1601.05794 (2016).
 
-[4].      Tahir, M.; Siddique, A.B., “Optimal Brightness-Rate Control using VR-MPPM and its Spectral Analysis for VLC System,” Communications Letters, IEEE , vol.16, no.7, pp.1125,1128, July 2012.
+[4].      Siddique, A.B.; Tahir, M., “Joint Rate-Brightness Control using Variable Rate MPPM for LED Based Visible Light Communication Systems,” Wireless Communications, IEEE Transactions on , vol.12, no.9, pp.4604,4611, September 2013.
+
+[5].      Tahir, M.; Siddique, A.B., “Optimal Brightness-Rate Control using VR-MPPM and its Spectral Analysis for VLC System,” Communications Letters, IEEE , vol.16, no.7, pp.1125,1128, July 2012.
 
 ## Conference Papers
 
