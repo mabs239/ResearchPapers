@@ -1,5 +1,4 @@
 
-
 # ResearchPapers
 
 # Engr.Atta-ur-Rehman
@@ -8,12 +7,12 @@
 
 # Dr. Haroon Farooq [updated]
 
-## Journal – publications:
+## Journal Publications
 
 [1].   HAROON FAROOQ, CHENGKE ZHOU, MALCOLM ALLAN, MOHAMED EMAD FARRAG, R.A. KHAN, M. JUNAID ,“Investigating The Power Quality Of An Electrical Distribution System Stressed By Non-Linear Domestic Appliances”, Renewable Energy and Power Quality Journal, No. 9, ISSN: 2172-038X, May 2011.
 
-[2].	H. Farooq, C. Zhou, M.E. Farrag, “Analyzing the Harmonic Distortion in a Distribution              System Caused by the Non-Linear Residential Loads”, International Journal of Smart Grid and Clean Energy, Vol. 2 (01) ISSN: 2315-4462, pp. 46-51, January 2013.
-## Conference – publications:
+[2].	H. Farooq, C. Zhou, M.E. Farrag, “Analyzing the Harmonic Distortion in a Distribution              System Caused by the Non-Linear Residential Loads”, International Journal of Smart Grid and Clean Energy, Vol. 2 (01) ISSN: 2315-4462, pp. 46-51, January 2013. 
+## Conference Papers
  [1].	ADNAN BASHIR, WAQAS JAVED, REHAN ARIF, HAROON FAROOQ, “Design and Harmonic Analysis of a High Frequency Power Electronics Circuit to Reduce the Transformer Size”, in Proc. NMEC-15, November 2015.
 
 [2].  HAROON FAROOQ, KEJUN QIAN, MOHAMED EMAD FARRAG, MALCOLM ALLAN & CHENGKE ZHOU, “Power Quality Analysis Of Distribution Systems Incorporating High Penetration Level Of EV  Battery Chargers”, in Proc. CIRED’11, June 2011.
@@ -23,9 +22,8 @@
 [4].   HAROON FAROOQ, “Investigating The Impacts Of Distributed Generation On An Electrical Distribution System Already Stressed By Non-Linear Domestic Loads”, in Proc. APPEEC 2012, March 2012. 
 
 
-# Engr. M. Rehan Arif
+# Engr. M. Rehan Arif [updated]
 
-RESEARCH PUBLICATIONS
 
 
 [1].	ADNAN BASHIR, WAQAS JAVED, REHAN ARIF, HAROON FAROOQ, “Design and Harmonic Analysis of a High Frequency Power Electronics Circuit to Reduce the Transformer Size”, in Proc. NMEC-15, November 2015.
@@ -39,7 +37,7 @@ RESEARCH PUBLICATIONS
 [5].	Qureshi, S.A.  Akmal, M.  Arif, R., “Power quality based comparison of Compact Fluorescent Lamp with fluorescent light”, IEEE, 3rd International Conference on Electrical Engineering (ICEE’09), ISBN: 978-1-4244-4360-4, UET, Lahore, Pakistan, April 2009.
 
 [6].	R.A.Jabbar, M-Aldabbagh, Azah Muhammad, R.H, Khawaja, M. Akmal, Rehan Arif,  “Impact of Compact Fluorescent Lamp on Power Quality”, IEEE, AUPEC’08, ISBN: 978-0-7334-2715-2, UNSW, Australia, December, 2008.
-]
+
 
 
 
@@ -49,14 +47,14 @@ RESEARCH PUBLICATIONS
 
 [1].	ADNAN BASHIR, WAQAS JAVED, REHAN ARIF, HAROON FAROOQ, “Design and Harmonic Analysis of a High Frequency Power Electronics Circuit to Reduce the Transformer Size”, in Proc. NMEC-15, November 2015.
  
-[2] Ali Raza, Manzoor Ellahi, Adnan Bashir, and Muhammad Iqbal, “Online monitoring of Electricity Data through wireless transmission using Radio Frequency,” International Journal of Innovation and Applied Studies, vol. 3, no. 1, pp. 59–67, May 2013.
+[2]. Ali Raza, Manzoor Ellahi, Adnan Bashir, and Muhammad Iqbal, “Online monitoring of Electricity Data through wireless transmission using Radio Frequency,” International Journal of Innovation and Applied Studies, vol. 3, no. 1, pp. 59–67, May 2013.
 
-[3] Adnan Bashir, Rana A. Jabbar, Muhammad Junaid and M. Mansoor Asgher, “ETAP Software based Transient, Ground Grid and Short Circuit Analyses of 132 kV Grid”, Third Global Conference on Power Control and Optimization (PCO 2010), ISBN: 978-983-44483-1-8, 2 - 4 February 2010, Gold Coast, Australia. 
+[3]. Adnan Bashir, Rana A. Jabbar, Muhammad Junaid and M. Mansoor Asgher, “ETAP Software based Transient, Ground Grid and Short Circuit Analyses of 132 kV Grid”, Third Global Conference on Power Control and Optimization (PCO 2010), ISBN: 978-983-44483-1-8, 2 - 4 February 2010, Gold Coast, Australia. 
 
-[4] W.A.Qureshi, R.A.J. Khan, M.Akmal, Mateen Ahmed and A. Bashir, “An Efficient Approach for Target Tracking and Error Minimization by Kalman Filtering Technique”, IEEE, International Conference on Electrical Engineering, 2007. ICEE '07, ISBN: 1-4244-0893-8, pp. 1-6.
+[4]. W.A.Qureshi, R.A.J. Khan, M.Akmal, Mateen Ahmed and A. Bashir, “An Efficient Approach for Target Tracking and Error Minimization by Kalman Filtering Technique”, IEEE, International Conference on Electrical Engineering, 2007. ICEE '07, ISBN: 1-4244-0893-8, pp. 1-6.
 
 ## International Book Chapter Writing
-]
+
 [1].	Innovation in Power, Control and Optimization (PCO) Book Chapter, Under Chapter title, “Analyses and Monitoring of Power Grid”, Authors: Rana A. Jabbar, Engr. Muhammad Junaid, Adnan Bashir, M. Asghar and M.A. Masood, IGI Global http://www.igi-global.com/Books.aspx, 2010.
 
 # Engr. Naveed Akhter
@@ -66,7 +64,7 @@ RESEARCH PUBLICATIONS
 # Engr. Waqas Ali
 [1].	R.H. KHAWAJA, M. A. MASOOD, MANSOOR ASGHAR, M. USMAN ASLAM, WAQAS ALI, SHAKEEL AHMAD, “An Innovative Approach For Modelling Of Power System Schemes Using Simulink Performance Analysis”, Proceedings of International Conference on Power Electronics and Power Engineering 2011 (ICPEPE 2009), Paris, France, 24th -26th June 2011.
 
-1# Engr. Muhammad Usman Aslam [updated]
+# Engr. Muhammad Usman Aslam [updated]
 [1]. R.H. Khawaja, M. A. Masood, MansoorAsghar, M. Usman Aslam, Waqas Ali, Shakeel Ahmad, “An Innovative Approach For Modeling of Power System Protection Schemes Using Simulink for Performance Analysis”, Proceedings of International Conference of World Academy of Science, Engineering & Technology 2011 (WASET 2011), Paris, France, 24th -26th June 2011. pp 1612-1616.
 
  
@@ -90,7 +88,7 @@ doi: 10.1109/ICET.2015.7389181
 [2].	R. H. KHAWAJA, M. REHAN ARIF, SHAKEEL AHMAD, M. NAVEED, JAMAL NASIR, “Optimization Of Distribution Transformer Using High Frequency Attained By Smps Technology”, 20th Australian Universities Power Engineering Conference (AUPEC 2010), Christchurch, New Zealand, 5th -8th December 2010. 
 
 
-# Dr. Tayyeb Mahmood
+# Dr. Tayyeb Mahmood [updated]
 ## Journal Publications
 [1]. Tayyeb Mahmood, Seokin Hong, and Soontae Kim, "Ensuring cache reliability and energy scaling at near-threshold voltage with Macho," IEEE Transactions on Computers (TC), Vol. 64, No. 6, pp. 1694-1706, Jun. 2015.
 
