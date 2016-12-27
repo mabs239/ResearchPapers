@@ -100,7 +100,8 @@ doi: 10.1109/ICET.2015.7389181
 
 [2].	TAYYEB MAHMOOD and SOONTAE KIM, "Near-Threshold Voltage Scaling in Last level Caches", International Exposition Yeosu Korea, International Conference on Information Technology (YSEC 2012), Suncheon, Korea, April 26~28, 2012 (Best paper award)
 
- [3].	TAYYEB MAHMOOD, SOONTAE  KIM, “Grained Fault Tolerance for Process Variation-Aware Caches”, IEEE Computer Society Annual Symposium on VLSI (ISVLSI), July 2010.
+
+[3].	TAYYEB MAHMOOD, SOONTAE  KIM, “Grained Fault Tolerance for Process Variation-Aware Caches”, IEEE Computer Society Annual Symposium on VLSI (ISVLSI), July 2010.
 
  [4].	TAYYEB MAHMOOD, “Realizing Near-True Voltage Scaling In Variation-Sensitive L1 Caches Via Fault Buffers”, International Conference on Compliers, Architectures and Synthesis of Embedded Systems (CASES 2011), Taipei, Taiwan, 9th -14th October 2011.
 
@@ -109,6 +110,7 @@ doi: 10.1109/ICET.2015.7389181
 [1].	R.H. KHAWAJA, M. ALI MASOOD, M. ASGHAR, USMAN, WAQAS, SHAKEEL, “An Innovative Approach For Modelling Of Power System Schemes Using Simulink Performance Analysis”, Proceedings of International Conference on Power Electronics and Power Engineering 2011 (ICPEPE 2009), Paris, France, 24th -26th June 2011.
 
 [2].	Rana A. Jabbar, Muhammad Junaid, M. Ali Masood, M. Mansoor and Adil Iftkhar, "LabVIEW based Induction Machines Laboratory for Engineering Education", The 7th WSEAS International Conference on Engineering Education (Education '10), Corfu Island, Greece, July, 22-24, 2010.
+
 
 [3].	Rana A. Jabbar, Azah Mohamed, M. Shoaib, M. Ali Masood, Muhammad Junaid and   Bilal Ahmad, “Analysis of Harmonics on Transformer Windings Eddy Current Losses using Comsol Multiphysics”, The Third IASTED (International Association of Science and Technology for Development) Asian Conference on Power and Energy Systems (AsiaPES 2009), October 12 – 14, 2009, Beijing, China. 
 
@@ -138,14 +140,20 @@ doi: 10.1109/ICET.2015.7389181
 
 [3]. Siddique, Abu Bakar, Saadia Farid, and Muhammad Tahir. "Proof of bijection for combinatorial number system." arXiv preprint arXiv:1601.05794 (2016).
 
-[4].      Siddique, A.B.; Tahir, M., “Joint Rate-Brightness Control using Variable Rate MPPM for LED Based Visible Light Communication Systems,” Wireless Communications, IEEE Transactions on , vol.12, no.9, pp.4604,4611, September 2013.
+[4]. Siddique, A.B.; Tahir, M., “Joint Rate-Brightness Control using Variable Rate MPPM for LED Based Visible Light Communication Systems,” Wireless Communications, IEEE Transactions on , vol.12, no.9, pp.4604,4611, September 2013.
 
-[5].      Tahir, M.; Siddique, A.B., “Optimal Brightness-Rate Control using VR-MPPM and its Spectral Analysis for VLC System,” Communications Letters, IEEE , vol.16, no.7, pp.1125,1128, July 2012.
+[5]. Tahir, M.; Siddique, A.B., “Optimal Brightness-Rate Control using VR-MPPM and its Spectral Analysis for VLC System,” Communications Letters, IEEE , vol.16, no.7, pp.1125,1128, July 2012.
 
 ## Conference Papers
 
-[1].      Siddique, Abu Bakar, and Muhammad Tahir. “Bandwidth efficient multi-level MPPM encoding decoding algorithms for joint brightness-rate control in VLC systems.” Global Communications Conference (GLOBECOM), 2014 IEEE. IEEE, 2014.
+[1]. Siddique, Abu Bakar, and Muhammad Tahir. “Bandwidth efficient multi-level MPPM encoding decoding algorithms for joint brightness-rate control in VLC systems.” Global Communications Conference (GLOBECOM), 2014 IEEE. IEEE, 2014.
 
-[2].      Siddique, Abu Bakar, and Muhammad Tahir. “Joint error-brightness control coding for LED based VLC link.” Wireless Communications and Networking Conference (WCNC), 2014 IEEE. IEEE, 2014.
+[2]. Siddique, Abu Bakar, and Muhammad Tahir. “Joint error-brightness control coding for LED based VLC link.” Wireless Communications and Networking Conference (WCNC), 2014 IEEE. IEEE, 2014.
 
-[3].      Siddique, A.B.; Tahir, M., “Joint brightness control and data transmission for visible light communication systems based on white LEDs,” Consumer Communications and Networking Conference (CCNC), 2011 IEEE , vol., no., pp.1026,1030, 9-12 Jan. 2011.
+[3]. Siddique, A.B.; Tahir, M., “Joint brightness control and data transmission for visible light communication systems based on white LEDs,” Consumer Communications and Networking Conference (CCNC), 2011 IEEE , vol., no., pp.1026,1030, 9-12 Jan. 2011.
+
+
+
+# Saira Arif
+
+Saira Arif, “Energy and priority aware scheduling scheme for wireless sensor networks”, accepted for publication in BUJICT (Bahria University Journal of Information and Communication Technology)
