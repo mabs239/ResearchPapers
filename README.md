@@ -28,7 +28,7 @@
 RESEARCH PUBLICATIONS
 
 
-[1].	Adnan Bashir, Waqas Javed, M. Rehan Arif, Haroon Farooq, “Design and Harmonic Analysis of a High Frequency Power Electronics Circuit to Reduce the Transformer Size”, International Conference on Informatics, Environment, Energy and Applications (IEEA 2015), Pattaya, Thailand, March 2015.
+[1].	ADNAN BASHIR, WAQAS JAVED, REHAN ARIF, HAROON FAROOQ, “Design and Harmonic Analysis of a High Frequency Power Electronics Circuit to Reduce the Transformer Size”, in Proc. NMEC-15, November 2015.
 
 [2].	Muhammad Rehan Arif, Farhan Mahmood, Murtaza Hashmi, Seppo Hänninen, “Application of Passive Filters to Mitigate Power Quality Problems Caused by Induction Furnaces”, IEEE International Conference on Condition Monitoring and Diagnosis (CMD 2012), Bali, Indonesia, September 2012.
 
@@ -39,7 +39,7 @@ RESEARCH PUBLICATIONS
 [5].	Qureshi, S.A.  Akmal, M.  Arif, R., “Power quality based comparison of Compact Fluorescent Lamp with fluorescent light”, IEEE, 3rd International Conference on Electrical Engineering (ICEE’09), ISBN: 978-1-4244-4360-4, UET, Lahore, Pakistan, April 2009.
 
 [6].	R.A.Jabbar, M-Aldabbagh, Azah Muhammad, R.H, Khawaja, M. Akmal, Rehan Arif,  “Impact of Compact Fluorescent Lamp on Power Quality”, IEEE, AUPEC’08, ISBN: 978-0-7334-2715-2, UNSW, Australia, December, 2008.
-
+]
 
 
 
@@ -47,14 +47,16 @@ RESEARCH PUBLICATIONS
 
 # Engr. Adnan Bashir
 
-[1] Ali Raza, Manzoor Ellahi, Adnan Bashir, and Muhammad Iqbal, “Online monitoring of Electricity Data through wireless transmission using Radio Frequency,” International Journal of Innovation and Applied Studies, vol. 3, no. 1, pp. 59–67, May 2013.
+[1].	ADNAN BASHIR, WAQAS JAVED, REHAN ARIF, HAROON FAROOQ, “Design and Harmonic Analysis of a High Frequency Power Electronics Circuit to Reduce the Transformer Size”, in Proc. NMEC-15, November 2015.
+ 
+[2] Ali Raza, Manzoor Ellahi, Adnan Bashir, and Muhammad Iqbal, “Online monitoring of Electricity Data through wireless transmission using Radio Frequency,” International Journal of Innovation and Applied Studies, vol. 3, no. 1, pp. 59–67, May 2013.
 
-[2] Adnan Bashir, Rana A. Jabbar, Muhammad Junaid and M. Mansoor Asgher, “ETAP Software based Transient, Ground Grid and Short Circuit Analyses of 132 kV Grid”, Third Global Conference on Power Control and Optimization (PCO 2010), ISBN: 978-983-44483-1-8, 2 - 4 February 2010, Gold Coast, Australia. 
+[3] Adnan Bashir, Rana A. Jabbar, Muhammad Junaid and M. Mansoor Asgher, “ETAP Software based Transient, Ground Grid and Short Circuit Analyses of 132 kV Grid”, Third Global Conference on Power Control and Optimization (PCO 2010), ISBN: 978-983-44483-1-8, 2 - 4 February 2010, Gold Coast, Australia. 
 
-[3] W.A.Qureshi, R.A.J. Khan, M.Akmal, Mateen Ahmed and A. Bashir, “An Efficient Approach for Target Tracking and Error Minimization by Kalman Filtering Technique”, IEEE, International Conference on Electrical Engineering, 2007. ICEE '07, ISBN: 1-4244-0893-8, pp. 1-6.
+[4] W.A.Qureshi, R.A.J. Khan, M.Akmal, Mateen Ahmed and A. Bashir, “An Efficient Approach for Target Tracking and Error Minimization by Kalman Filtering Technique”, IEEE, International Conference on Electrical Engineering, 2007. ICEE '07, ISBN: 1-4244-0893-8, pp. 1-6.
 
 ## International Book Chapter Writing
-
+]
 [1].	Innovation in Power, Control and Optimization (PCO) Book Chapter, Under Chapter title, “Analyses and Monitoring of Power Grid”, Authors: Rana A. Jabbar, Engr. Muhammad Junaid, Adnan Bashir, M. Asghar and M.A. Masood, IGI Global http://www.igi-global.com/Books.aspx, 2010.
 
 # Engr. Naveed Akhter
@@ -64,17 +66,17 @@ RESEARCH PUBLICATIONS
 # Engr. Waqas Ali
 [1].	R.H. KHAWAJA, M. A. MASOOD, MANSOOR ASGHAR, M. USMAN ASLAM, WAQAS ALI, SHAKEEL AHMAD, “An Innovative Approach For Modelling Of Power System Schemes Using Simulink Performance Analysis”, Proceedings of International Conference on Power Electronics and Power Engineering 2011 (ICPEPE 2009), Paris, France, 24th -26th June 2011.
 
-# Engr. Muhammad Usman Aslam [updated]
-R.H. Khawaja, M. A. Masood, MansoorAsghar, M. Usman Aslam, Waqas Ali, Shakeel Ahmad, “An Innovative Approach For Modeling of Power System Protection Schemes Using Simulink for Performance Analysis”, Proceedings of International Conference of World Academy of Science, Engineering & Technology 2011 (WASET 2011), Paris, France, 24th -26th June 2011. pp 1612-1616.
+1# Engr. Muhammad Usman Aslam [updated]
+[1]. R.H. Khawaja, M. A. Masood, MansoorAsghar, M. Usman Aslam, Waqas Ali, Shakeel Ahmad, “An Innovative Approach For Modeling of Power System Protection Schemes Using Simulink for Performance Analysis”, Proceedings of International Conference of World Academy of Science, Engineering & Technology 2011 (WASET 2011), Paris, France, 24th -26th June 2011. pp 1612-1616.
 
  
-M. Usman Aslam, Muhammad Usman Cheema, Muhammad Samran, Muhammad Bilal Cheema, “Optimal Power Flow based upon Genetic Algorithm deploying Optimum Mutation and Elitism”, International Conference on Information Technology, Computer and Electrical Engineering (ICITACEE 2014), 8th – 9th  November, 2014, pp 334-338.
+[2]. M. Usman Aslam, Muhammad Usman Cheema, Muhammad Samran, Muhammad Bilal Cheema, “Optimal Power Flow based upon Genetic Algorithm deploying Optimum Mutation and Elitism”, International Conference on Information Technology, Computer and Electrical Engineering (ICITACEE 2014), 8th – 9th  November, 2014, pp 334-338.
 
  
-M. Usman Aslam, Muhammad Usman Cheema, Muhammad Bilal Cheema, Muhammad Samran, “Design Analysis and Optimization of Ground Grid  Mesh of Extra High Voltage Substation Using an  Intelligent Software”, International Conference on Information Technology, Computer and Electrical Engineering (ICITACEE 2014), 8th – 9th  November, 2014, pp 339-345.
+[3]. M. Usman Aslam, Muhammad Usman Cheema, Muhammad Bilal Cheema, Muhammad Samran, “Design Analysis and Optimization of Ground Grid  Mesh of Extra High Voltage Substation Using an  Intelligent Software”, International Conference on Information Technology, Computer and Electrical Engineering (ICITACEE 2014), 8th – 9th  November, 2014, pp 339-345.
 
   
-Muhammad Usman Cheema, M. Bilal Cheema, Adnan Bashir, M. Usman Aslam, “A comparison  of ground grid mesh design and optimization for 500kV substation using IEEE 80-2000 and finite element methods”,  Electrical and Electronics Engineering: An International Journal (ELELIJ) Vol 4, No 1, February 2015.
+[[Muhammad Usman Cheema, M. Bilal Cheema, Adnan Bashir, M. Usman Aslam, “A comparison  of ground grid mesh design and optimization for 500kV substation using IEEE 80-2000 and finite element methods”,  Electrical and Electronics Engineering: An International Journal (ELELIJ) Vol 4, No 1, February 2015.
 
 # Engr. Muhammad Usama [updated]
 [1].	M. Usama, S. Habib and H. Hussain, "Power generation from canal system using adjustable Twisted Blade Turbine," Emerging Technologies (ICET), 2015 International Conference on, Peshawar, 2015, pp. 1-4.
@@ -89,10 +91,16 @@ doi: 10.1109/ICET.2015.7389181
 
 
 # Dr. Tayyeb Mahmood
+## Journal Publications
+[1]. Tayyeb Mahmood, Seokin Hong, and Soontae Kim, "Ensuring cache reliability and energy scaling at near-threshold voltage with Macho," IEEE Transactions on Computers (TC), Vol. 64, No. 6, pp. 1694-1706, Jun. 2015.
 
-[1].	TAYYEB MAHMOOD, SOONTAE KIM, SEOKIN HONG. Macho: A Failure Model-oriented Adaptive Cache Architecture to enable Near-Threshold Voltage Scaling. In Proc. of 19th IEEE International Symposium on High Performance Computer Architecture (HPCA19), Shenzhen, China, February 23-27, 2013 (Accepted).
+[2]. Tayyeb Mahmood and Soontae Kim, "Fault Buffers Enabling Near-True Voltage Scaling in Variation-Sensitive L1 Caches," Design Automation for Embedded Systems (DAEM), Vol. 17, No. 2, pp. 411–438, Jun. 2013.
 
-[2].	TAYYEB MAHMOOD and SOONTAE KIM, Near-Threshold Voltage Scaling in Last level Caches, International Exposition Yeosu Korea, International Conference on Information Technology (YSEC 2012), Suncheon, Korea, April 26~28, 2012 (Best paper award)
+## Conference Papers
+
+[1].	TAYYEB MAHMOOD, SOONTAE KIM, SEOKIN HONG. "Macho: A Failure Model-oriented Adaptive Cache Architecture to enable Near-Threshold Voltage Scaling", In Proc. of 19th IEEE International Symposium on High Performance Computer Architecture (HPCA19), Shenzhen, China, February 23-27, 2013 (Accepted).
+
+[2].	TAYYEB MAHMOOD and SOONTAE KIM, "Near-Threshold Voltage Scaling in Last level Caches", International Exposition Yeosu Korea, International Conference on Information Technology (YSEC 2012), Suncheon, Korea, April 26~28, 2012 (Best paper award)
 
  [3].	TAYYEB MAHMOOD, SOONTAE  KIM, “Grained Fault Tolerance for Process Variation-Aware Caches”, IEEE Computer Society Annual Symposium on VLSI (ISVLSI), July 2010.
 
