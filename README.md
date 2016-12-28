@@ -1,9 +1,37 @@
-
 # ResearchPapers
 
 # Engr.Atta-ur-Rehman
 
-[1]	Atta-ur-Rehman, Salman Afghani, Muhammad Akmal, Raheel Yousaf, “Microcontroller and Sensors Based Gesture Vocalizer”, The 7th WSEAS conference on SIGNAL, ROBOTICS and AUTOMATION, The University of Cambridge, UK, February 20-22, 2008.
+[1]. M. S. Khan, S. M. Naqvi, Ata-ur-Rehman, W. Wang and J. A. Chambers, “Video-aided model-based source separation in real reverberant rooms”, IEEE Trans. Audio, Speech and Language Processing, vol. 21, no. 9, pp. 1900-1912, 2013. 
+
+[2]. Ata-ur-Rehman, S. M. Naqvi, L. Mihaylova and J. A. Chambers,“Multi-Target Tracking and Occlusion Handling with Learned Variational Bayesian Clusters and a Social Force Model”, IEEE Trans. Signal Processing, vol. 64, no. 5, pp. 13201335, 2016
+Journal Papers in Preparation
+
+[3]. Ata-ur-Rehman, L. Mihaylova., R. Harrison., A. Pacey,“ An Algorithm for motility and morphology analysis of Human Sperm” in preparation for IEEE Trans. Biomedical Engineering
+
+[4]. Ata-ur-Rehman, S. M. Naqvi and J. A. Chambers, “A graphical approach for multi-target tracking”, in preparation for IEEE Trans. Human-Machine Systems.
+Published Conference Papers
+
+[5]. Ata-ur-Rehman, Naqvi, S.M., Mihaylova, L.; Chambers, J.A., ”Multi-target tracking by using particle ﬁltering and a social force model,” IEEE Information FUSION conference, 2014
+
+[6]. Ata-ur-Rehman, S. M. Naqvi, L. Mihaylova and J. A. Chambers, “Clustering and a joint probabilistic data association ﬁlter for dealing with occlusions in multitarget tracking”, IEEE Information FUSION conference, 2013.
+
+[7]. Ata-ur-Rehman, S. M. Naqvi, L. Mihaylova and J. A. Chambers, “Variational Bayesian and belief propagation based data association for multi-target tracking”, IEEEInternational Conference on Acoustics, Speech, and Signal Processing(ICASSP), 2013.
+
+[8]. Ata-ur-Rehman, S. M. Naqvi, R. Phan, W. Wang and J. A. Chambers, “MCMCPF based multiple head tracking in a room environment”, Proc. British Machine Vision Workshop, 2012.
+
+[9]. Ata-ur-Rehman, S. M. Naqvi, R. Phan, and J. A. Chambers, “Weighted MCMCPF based multiple head trackingin a room environment”, International Conference on Mathematics in Signal Processing, 2012.
+
+[10]. M. K. Salman, Ata-ur-Rehman, Y. Liang, S. M. Naqvi, J. A. Chambers, “Convolutive speech separation by combining probabilistic models employing the interaural spatial cues and properties of the room assisted by vision”, International Conference on Mathematics in Signal Processing, 2012.
+
+[11]. Ata-ur-Rehman, S. M. Naqvi, R. Phan, and J. A. Chambers, “Multi-speaker direction of arrival tracking for multimodal source separation of moving sources”, IEEE Conference on Sensor, Signal Processing for Defence, 2011.
+
+[12]. Ata-ur-Rehman, S. Afghani, M. Akmal, R. Yousaf, “Microcontrollerand Sensors Based Gesture Vocalizer”, WSEAS, 2008.
+2 of 4
+
+[13]. Ata-ur-Rehman, L. Mihaylova., R. Harrison., A. Pacey,“ An Algorithm for Morphology Classiﬁcation of Motile Human Sperm”, IEEE Conference on Sensor and data fusion, 2015
+
+[14]. S. Liaquat, U. Shehbaz, Ata-ur-Rehman, “Object detection and depth estimation of real world objects using single camera”, International Conference on Aerospace Science and Engineering (ICASE), 2015
 
 # Dr. Haroon Farooq [updated]
 
