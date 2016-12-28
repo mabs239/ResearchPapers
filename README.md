@@ -102,7 +102,7 @@ Published Conference Papers
 [3]. M. Usman Aslam, Muhammad Usman Cheema, Muhammad Bilal Cheema, Muhammad Samran, “Design Analysis and Optimization of Ground Grid  Mesh of Extra High Voltage Substation Using an  Intelligent Software”, International Conference on Information Technology, Computer and Electrical Engineering (ICITACEE 2014), 8th – 9th  November, 2014, pp 339-345.
 
   
-[[Muhammad Usman Cheema, M. Bilal Cheema, Adnan Bashir, M. Usman Aslam, “A comparison  of ground grid mesh design and optimization for 500kV substation using IEEE 80-2000 and finite element methods”,  Electrical and Electronics Engineering: An International Journal (ELELIJ) Vol 4, No 1, February 2015.
+[4]. Muhammad Usman Cheema, M. Bilal Cheema, Adnan Bashir, M. Usman Aslam, “A comparison  of ground grid mesh design and optimization for 500kV substation using IEEE 80-2000 and finite element methods”,  Electrical and Electronics Engineering: An International Journal (ELELIJ) Vol 4, No 1, February 2015.
 
 # Engr. Muhammad Usama [updated]
 [1].	M. Usama, S. Habib and H. Hussain, "Power generation from canal system using adjustable Twisted Blade Turbine," Emerging Technologies (ICET), 2015 International Conference on, Peshawar, 2015, pp. 1-4.
@@ -162,23 +162,23 @@ doi: 10.1109/ICET.2015.7389181
 # Abu Bakar Siddique [updated]
 ## Journal Papers
 
-[1]. M. A. Anwar; A. B. Siddique; M. Tahir, "Relative Self-Calibration of Wireless Acoustic Sensor Networks Using Dual Positioning Mobile Beacon," in IEEE Systems Journal , vol.PP, no.99, pp.1-9, 2016. 
+[1]. M. A. Anwar; Abu Bakar Siddique; M. Tahir, "Relative Self-Calibration of Wireless Acoustic Sensor Networks Using Dual Positioning Mobile Beacon," in IEEE Systems Journal , vol.PP, no.99, pp.1-9, 2016. 
 
-[2]. M.U. Farooq, A. Shakoor, A.B. Siddique,"ARM based Bidirectional Visitor Counter and Automatic Room Light Controller using PIR sensors", Advances in Science, Technology and Engineering Systems Journal, vol. 1, no. 5, pp. 10-15, 2016.
+[2]. M.U. Farooq, A. Shakoor and Abu Bakar Siddique,"ARM based Bidirectional Visitor Counter and Automatic Room Light Controller using PIR sensors", Advances in Science, Technology and Engineering Systems Journal, vol. 1, no. 5, pp. 10-15, 2016.
 
-[3]. Siddique, Abu Bakar, Saadia Farid, and Muhammad Tahir. "Proof of bijection for combinatorial number system." arXiv preprint arXiv:1601.05794 (2016).
+[3]. Abu Bakar Siddique, Saadia Farid and Muhammad Tahir. "Proof of bijection for combinatorial number system." arXiv preprint arXiv:1601.05794 (2016).
 
-[4]. Siddique, A.B.; Tahir, M., “Joint Rate-Brightness Control using Variable Rate MPPM for LED Based Visible Light Communication Systems,” Wireless Communications, IEEE Transactions on , vol.12, no.9, pp.4604,4611, September 2013.
+[4]. Abu Bakar Siddique and Muhammad Tahir, “Joint Rate-Brightness Control using Variable Rate MPPM for LED Based Visible Light Communication Systems,” Wireless Communications, IEEE Transactions on , vol.12, no.9, pp.4604,4611, September 2013.
 
-[5]. Tahir, M.; Siddique, A.B., “Optimal Brightness-Rate Control using VR-MPPM and its Spectral Analysis for VLC System,” Communications Letters, IEEE , vol.16, no.7, pp.1125,1128, July 2012.
+[5]. Muhammad Tahir and Abu Bakar Siddique, “Optimal Brightness-Rate Control using VR-MPPM and its Spectral Analysis for VLC System,” Communications Letters, IEEE , vol.16, no.7, pp.1125,1128, July 2012.
 
 ## Conference Papers
 
-[1]. Siddique, Abu Bakar, and Muhammad Tahir. “Bandwidth efficient multi-level MPPM encoding decoding algorithms for joint brightness-rate control in VLC systems.” Global Communications Conference (GLOBECOM), 2014 IEEE. IEEE, 2014.
+[1]. Abu Bakar Siddique and Muhammad Tahir. “Bandwidth efficient multi-level MPPM encoding decoding algorithms for joint brightness-rate control in VLC systems.” Global Communications Conference (GLOBECOM), 2014 IEEE. IEEE, 2014.
 
-[2]. Siddique, Abu Bakar, and Muhammad Tahir. “Joint error-brightness control coding for LED based VLC link.” Wireless Communications and Networking Conference (WCNC), 2014 IEEE. IEEE, 2014.
+[2]. Abu Bakar Siddique and Muhammad Tahir. “Joint error-brightness control coding for LED based VLC link.” Wireless Communications and Networking Conference (WCNC), 2014 IEEE. IEEE, 2014.
 
-[3]. Siddique, A.B.; Tahir, M., “Joint brightness control and data transmission for visible light communication systems based on white LEDs,” Consumer Communications and Networking Conference (CCNC), 2011 IEEE , vol., no., pp.1026,1030, 9-12 Jan. 2011.
+[3]. Abu Bakar Siddique and Muhammad Tahir, “Joint brightness control and data transmission for visible light communication systems based on white LEDs,” Consumer Communications and Networking Conference (CCNC), 2011 IEEE , vol., no., pp.1026,1030, 9-12 Jan. 2011.
 
 
 
