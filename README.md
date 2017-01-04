@@ -180,8 +180,11 @@ doi: 10.1109/ICET.2015.7389181
 
 [3]. Abu Bakar Siddique and Muhammad Tahir, “Joint brightness control and data transmission for visible light communication systems based on white LEDs,” Consumer Communications and Networking Conference (CCNC), 2011 IEEE , vol., no., pp.1026,1030, 9-12 Jan. 2011.
 
+# Salma Tariq
 
+[1]. Rizwan Arshad, Salman Tariq, Muhammad Umair Niaz, and Mohsin Jamil. "Improvement in solar panel efficiency using solar concentration by simple mirrors and by cooling." In Robotics and Emerging Allied Technologies in Engineering (iCREATE), 2014 International Conference on, pp. 292-295. IEEE, 2014.
 
 # Saira Arif
 
 Saira Arif, “Energy and priority aware scheduling scheme for wireless sensor networks”, accepted for publication in BUJICT (Bahria University Journal of Information and Communication Technology)
+
